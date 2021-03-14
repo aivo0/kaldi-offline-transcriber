@@ -7,3 +7,5 @@ utils
 sid
 ./Makefile.options
 rnnlm
+work
+.nextflow*
